@@ -13,3 +13,18 @@ The packs take the following liberties
 - New models and textures are introduced
 - Builds created without the packs will not necessarily look good with them
 - The concept of biome is disregarded with the pack (textures do not use tint indices)
+- The pack was designed for use alongside the WBC Builds texture pack
+
+## Features and Changes
+
+### Grass Block
+
+All seasons: top texture is applied to the sides
+
+<span style="color:darkolivegreen">Spring:</span> green, similar to default
+
+<span style="color:gold">Summer:</span> green, similar to default
+
+<span style="color:darkorange">Fall:</span> dormant brown grass
+
+<span style="color:skyblue">Winter:</span> snow texture
